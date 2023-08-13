@@ -2,6 +2,8 @@
 
 Welcome to the Recursive Criticism and Improvement project! This project aims to leverage the power of Langchain and Azure OpenAI to create a system that provides recursive criticism and improvement suggestions for various types of content. Whether you're a writer, a developer, a designer, or anyone looking to enhance their creations, this project can help you receive insightful feedback and suggestions for improvement.
 
+![](./RCI.gif)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -64,3 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 We hope that the Recursive Criticism and Improvement project proves to be a valuable tool in your quest for continuous enhancement in your creations. Happy creating and improving! 🚀
+
+## Reference Paper
+
+[Language Models can Solve Computer Tasks](https://arxiv.org/abs/2303.17491)
